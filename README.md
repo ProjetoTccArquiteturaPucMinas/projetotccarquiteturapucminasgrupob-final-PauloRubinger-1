@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Paulo Victor Pimenta Rubinger
 
 ## Visão Geral do Projeto
 
